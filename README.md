@@ -11,9 +11,3 @@ Un blog increíble para el [curso de Git y GitHub](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 
 Y como un amable recordatorio: **Este README.md es un chiste**. Diseñado para el ejemplo. Si llegas acá O TE LO TOMES EN SERIO y mejor ve a [****ver el curso**](https://platzi.com/cursos/git-github/ "ver el curso").
-=======
-# Hyperblog
-Un blog increible para el curso de hit y hithub para platzi
-=======
-# Hyperblog
-Un blog increible para el curso de hit y hithub para platzi
