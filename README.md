@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Hyperblog 💚
 Un blog increíble para el [curso de Git y GitHub](https://platzi.com/cursos/git-github/ "curso de Git y GitHub") de [Platzi](https://platzi.com/ "Platzi")
 > El curso de Git y GitHub de Platzi es lo que me hacìa falta para triplicar mis salario y lanzarme a la industria del tejido de lana sintética con Machine Learning
@@ -18,4 +17,3 @@ Un blog increible para el curso de hit y hithub para platzi
 =======
 # Hyperblog
 Un blog increible para el curso de hit y hithub para platzi
->>>>>>> e7f198593ec56488179de218de90fd752f6a24b0
